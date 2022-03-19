@@ -6,7 +6,6 @@
 
   <div>
     💻Front-end developer<br/>
-    📖Currently studying html CSS and JavaScript<br/>
     🌚Campo Grande - Ms (Brazil) <br/> 
   </div>
 
