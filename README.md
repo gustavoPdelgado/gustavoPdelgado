@@ -11,11 +11,16 @@
   </div>
 
 ## ▨GitHub status:
+##
 
+### Stacks that I'm learning atm
+
+###
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">   
+  <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pablo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Pablo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  </div>
  
  ##
@@ -32,7 +37,7 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoPdelgado&theme=react&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="166"/>
 </div>
   
- ##How to reach me:
+ ### How to reach me:
   
 <div style="display: inline_block" align="center"> 
   <a href = "mailto:luiz.delgado@ufms.br" rel="noopener"><img src="https://img.shields.io/badge/-Gmail-e83838?style=for-the-badge&logo=gmail&logoColor=white" rel="noopener"></a>
@@ -40,7 +45,7 @@
 
 
   ##
- 
+  ## Contribution graph
   ![Snake animation](https://github.com/gustavoPdelgado/gustavoPdelgado/blob/output/github-contribution-grid-snake.svg)
 
 </div>
