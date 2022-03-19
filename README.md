@@ -32,15 +32,12 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoPdelgado&theme=react&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="166"/>
 </div>
   
- ##
+ ##How to reach me:
   
 <div style="display: inline_block" align="center"> 
-  <a href="https://instagram.com/gusta.delgado" rel="noopener"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="noopener"></a>
   <a href = "mailto:luiz.delgado@ufms.br" rel="noopener"><img src="https://img.shields.io/badge/-Gmail-e83838?style=for-the-badge&logo=gmail&logoColor=white" rel="noopener"></a>
   <a href="https://www.linkedin.com/in/luiz-gustavo-paredes-delgado-773161235/" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="noopener"></a> 
-  <a href="https://steamcommunity.com/id/thegugajoker/" rel="noopener"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" rel="noopener"><a/>
-  <a href="https://github.com/gustavoPdelgado" rel="noopener"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&rel=noopener" rel="noopener"></a>
-</div>
+
 
   ##
  
